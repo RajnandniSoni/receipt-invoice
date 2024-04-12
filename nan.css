@@ -1,0 +1,219 @@
+*{
+    padding:0;
+    margin:0;
+  }
+  body{
+    background-color:#ffffff;
+    color:black;
+    overflow: hidden;
+  }
+  nav{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    height:70px;
+    background-color:#ffffff;
+  }
+  nav ul{
+    display: flex;
+    justify-content:center;
+  }
+  nav ul li{
+    list-style:none;
+    margin:0 170px;
+  }
+  
+  
+  .left{
+    font-size: 1.5rem;  
+    font-weight:bold;
+  }
+  #img-2{
+    position:relative;
+    left:18vw;
+  }
+  #img-1{
+    position:relative;
+    left:-5vw;
+  }
+  .secondSection{
+    margin:25px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    height:24px;
+    border:1px solid black;
+    font-size:15px;
+    position:relative;
+    top:-25px;
+  }
+  .left-second{
+    position:relative;
+    left:-9.5vw;
+  }
+  .center-second{
+    position:relative;
+    left:-10vw;
+  }
+  .right-second{
+    position:relative;
+    left:-5vw;
+  }
+  
+  .thirdSection{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    position:relative;
+    top:-5px;
+  }
+  .left-third{
+    position:relative;
+    left:-11.3vw;
+    top:2px;
+  }
+  .left-third-content{
+    position:relative;
+    top:7px;
+  }
+  .right-third-content{
+    position:relative;
+    top:7px;
+  }
+  .fourthSection{
+    margin:25px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    height:70px;
+    border:1px solid black;
+    font-size:25px;
+    position:relative;
+    top:-12px;
+  }
+  .fifthSection{
+    margin:25px;
+  }
+  #table-head{
+    display:flex;
+    justify-content:space-between;
+    padding:2vh;
+    background-color:#f2dcd4;
+    position: relative;
+    top:-4.0vh;
+  }
+  #table-content{
+    display:flex;
+    justify-content: space-between;
+    padding:2vh;
+    position: relative;
+    top:-4.0vh;
+  }
+  #HSN-code{
+    position:relative;
+    left:15px;
+  }
+  #Type{
+    position:relative;
+    left:-12px;
+  }
+  #Qty{
+    position:relative;
+    left:-24px;
+  }
+  #Gross-weight{
+    position:relative;
+    left:-21px;
+  }
+  #Stone-weight{
+    position:relative;
+    left:-41px;
+  }
+  #Net-weight{
+    position:relative;
+    left:-52px;
+  }
+  #Price{
+    position:relative;
+    left:-49px;
+  }
+  #CGST{
+    position:relative;
+    left:-67px;
+  }
+  #SGST{
+    position:relative;
+    left:-65px;
+  }
+  #product-name{
+    position:relative;
+    left:12px;
+  }
+  #Product-Value{
+    position:relative;
+    left:-62px;
+  }
+  
+  .sixthSection{
+    display:flex;
+    border:1px solid black;
+    justify-content:space-around;
+    margin:25px;
+    position:relative;
+    top:-3.5vh;
+  }
+  #sixth-left{
+    position: relative;
+    left:-200px;
+  }
+  #sixth-center{
+    position: relative;
+    left:-200px;
+  }
+  #sixth-right{
+    position: relative;
+    left:-200px;
+  }
+  .seventhSection{
+    position:relative;
+    top:-3vh;
+    display:flex;
+    height:16vh;
+    margin:25px;
+  }
+  .seventh-left{
+    border:1px solid black;
+    padding: 1vw;
+    width:50%;
+  }
+  .seventh-right{
+    padding:1vw;
+    width:50%;
+  }
+  .seventh-right-upper{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    padding-left: 1vw;
+  }
+  .seventh-right-center{
+    padding:1vh 1vw;
+  }
+  .seventh-right-lower{
+    display:flex;
+    justify-content: space-between;
+    padding:1vh 0;
+  }
+  #Seventh-Product-ValueNum{
+    position: relative;
+    left:-5vw;
+  }
+  #lower-num{
+    position: relative;
+    left:2vw;
+  }
+  #lower-value{
+  position:relative;
+  left:-4.8vw;  
+  }
